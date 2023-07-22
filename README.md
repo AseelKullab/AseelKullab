@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AseelKullab
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently studing computer science
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
